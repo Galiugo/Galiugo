@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Galiugo
-- 👀 I’m interested in Data Analytics 
+- 👋 Hi, I’m Ugonna Galileo Ogueri 
+- 👀 I’m a Data Analyst, fluent in performing Exploratory Data Analysis
 - 🌱 I’m currently learning Sql,R,Python 
 - 💞️ I’m looking to collaborate on creating Data analyst project portfolio to develop my skills and knowledge 
 - 📫 How to reach me ugonnaogueri@gmail.com 
